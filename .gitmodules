@@ -1,3 +1,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = https://github.com/kushagra67414/jenkins.git
+[submodule "Sonarqube"]
+	path = Sonarqube
+	url = https://github.com/kushagra67414/Sonarqube.git
